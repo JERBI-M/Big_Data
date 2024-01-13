@@ -1,0 +1,3 @@
+2012-12-31  17:35   Jersey City    Garden  361.33  MasterCard
+2012-12-31  17:35   Reno    Sporting Goods   179.46  Amex
+2012-12-31  17:35   Long    Beach   Crafts  239.39  Amex
